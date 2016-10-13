@@ -1,7 +1,8 @@
 console.log('test');
 var frutas = ["Manzana", "Plátano"];
+foo = frutas
 
 
 function("fruta", 'fruta'){
-	frutas2=frutas
+frutas = foo.slice();
 }

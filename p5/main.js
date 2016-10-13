@@ -19,3 +19,5 @@ function MARCANDO(phone){
 
 var persona1 = new TELEFONO("nokia","azul")
 persona1.llamar()
+
+telefonos = ["telefono1","telefono2","telefono3","telefono4"]
