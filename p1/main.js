@@ -1,9 +1,7 @@
 console.log('Pregunta 1');
-
-function (){
+arreglo = [1,2,3,4,5,6]
+function (arreglo){
 	if (int==) {
-		expression
-	}else{
-		
+		suma = sum[0]
 	}
 }
